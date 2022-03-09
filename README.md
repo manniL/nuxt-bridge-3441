@@ -1,1 +1,1 @@
-https://github.com/nuxt/framework/issues/3441
+Previously https://github.com/nuxt/framework/issues/3441, now https://github.com/nuxt/framework/issues/3570
